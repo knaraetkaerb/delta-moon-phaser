@@ -1,0 +1,33 @@
+{
+  "name": "delta-moon-phaser",
+  "version": "1.0.0",
+  "description": "Phases moons in the delta cycle, offering lunar transformation and celestial mechanics studies in digital space.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/delta-moon-phaser"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "epsilon-tide-spy": "1.0.0",
+    "zeta-beacon-engineer": "1.0.0",
+    "xml2js": "1.0.0",
+    "validator": "1.0.0",
+    "react-redux": "1.0.0",
+    "socket.io": "1.0.0",
+    "node-sass": "1.0.0",
+    "debug": "1.0.0",
+    "web3": "1.0.0",
+    "fs-extra": "1.0.0",
+    "mocha": "1.0.0",
+    "chalk": "1.0.0",
+    "commander": "1.0.0",
+    "solc": "1.0.0"
+  }
+}
